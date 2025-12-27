@@ -1,0 +1,36 @@
+{
+  "window.commandCenter": true,
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#e7ff0f"
+  },
+  "workbench.iconTheme": "bearded-icons",
+  "workbench.colorTheme": "Bearded Theme Arc",
+  "update.mode": "none",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "background.fullscreen": {
+    "images": ["file:///F:\\IDEA Background Image\\su7ultra.png"],
+    "opacity": 0.1,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": false
+  },
+  "editor.mouseWheelZoom": true,
+  "editor.fontFamily": "JetBrains Mono, '风雨  华文圆体',  Consolas, 'Courier New', monospace",
+  "terminal.integrated.fontFamily": "JetBrains Mono, monospace",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": ["comment", "punctuation.definition.comment"],
+        "settings": {
+          "fontStyle": "",
+          "foreground": "#2bd5ff"
+        }
+      }
+    ]
+  }
+}
